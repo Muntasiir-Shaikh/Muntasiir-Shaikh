@@ -1,6 +1,7 @@
 ## 👨‍💻 Muntasiir Shaikh
 ### Aspiring Data Scientist | Python Developer | AI & Machine Learning Enthusiast
 
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=00D9A6&center=true&vCenter=true&width=650&lines=Turning+Data+into+Insights;Building+with+Python;Exploring+Artificial+Intelligence;Learning+Machine+Learning+Every+Day" alt="Typing SVG" />
 </p>
