@@ -17,7 +17,7 @@
 <!-- ========== ABOUT ME ========== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:650000&height=65&section=header&text=ABOUT%20ME&fontSize=27&fontColor=000000" width="100%" alt="About me section banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:650000&height=65&section=header&text=ABOUT%20ME&fontSize=27&fontColor=F4E4C1" width="100%" alt="About me section banner"/>
 </p>
 
 - 🎓 Student currently studying in 11th/12th.
@@ -32,7 +32,7 @@
 <!-- ========== DEVELOPER IDENTITY ========== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:650000&height=65&section=header&text=DEVELOPER%20IDENTITY&fontSize=25&fontColor=000000" width="100%" alt="Developer identity banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:650000&height=65&section=header&text=DEVELOPER%20IDENTITY&fontSize=25&fontColor=FFD6D6" width="100%" alt="Developer identity banner"/>
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@
 <!-- ========== DATA SCIENCE ========== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:650000&height=65&section=header&text=DATA%20SCIENCE%20%26%20ANALYTICS&fontSize=23&fontColor=000000" width="100%" alt="Data science banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:650000&height=65&section=header&text=DATA%20SCIENCE%20%26%20ANALYTICS&fontSize=23&fontColor=FFD6D6" width="100%" alt="Data science banner"/>
 </p>
 
 <p align="center">
@@ -71,7 +71,7 @@
 <!-- ========== PYTHON DEVELOPMENT ========== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:650000&height=65&section=header&text=PYTHON%20DEVELOPMENT&fontSize=25&fontColor=000000" width="100%" alt="Python development banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:650000&height=65&section=header&text=PYTHON%20DEVELOPMENT&fontSize=25&fontColor=E6E6E6" width="100%" alt="Python development banner"/>
 </p>
 
 <p align="center">
