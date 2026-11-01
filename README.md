@@ -1,16 +1,15 @@
- 
 <!-- ========== HERO BANNER ========== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:650000,100:FF2020&height=220&section=header&text=Muntasiir%20Shaikh&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Scientist%20%7C%20Python%20Developer&descAlignY=58&descSize=16" width="100%" alt="Muntasiir Shaikh banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:650000,100:FF2020&height=220&section=header&text=Muntasiir%20Shaikh&fontSize=48&fontColor=000000&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Scientist%20%7C%20Python%20Developer&descAlignY=58&descSize=16" width="100%" alt="Muntasiir Shaikh banner"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9A6&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Learning+Python+%26+Data+Science;Exploring+AI+%26+Machine+Learning;Building+Projects+and+Learning+Every+Day" alt="Typing introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF2020&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Learning+Python+%26+Data+Science;Exploring+AI+%26+Machine+Learning;Building+Projects+and+Learning+Every+Day" alt="Typing introduction"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muntasiir-Shaikh&label=PROFILE%20VIEWS&color=00A878&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Muntasiir-Shaikh&label=PROFILE%20VIEWS&color=650000&style=for-the-badge" alt="Profile views"/>
 </p>
 
 ---
@@ -18,7 +17,7 @@
 <!-- ========== ABOUT ME ========== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:003B2F,100:00A878&height=65&section=header&text=ABOUT%20ME&fontSize=27&fontColor=FFFFFF" width="100%" alt="About me section banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:650000&height=65&section=header&text=ABOUT%20ME&fontSize=27&fontColor=000000" width="100%" alt="About me section banner"/>
 </p>
 
 - 🎓 Student currently studying in 11th/12th.
@@ -33,7 +32,7 @@
 <!-- ========== DEVELOPER IDENTITY ========== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:003B2F,100:00A878&height=65&section=header&text=DEVELOPER%20IDENTITY&fontSize=25&fontColor=FFFFFF" width="100%" alt="Developer identity banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:650000&height=65&section=header&text=DEVELOPER%20IDENTITY&fontSize=25&fontColor=000000" width="100%" alt="Developer identity banner"/>
 </p>
 
 <p align="center">
@@ -49,12 +48,12 @@
 <!-- ========== DATA SCIENCE ========== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:003B2F,100:00A878&height=65&section=header&text=DATA%20SCIENCE%20%26%20ANALYTICS&fontSize=23&fontColor=FFFFFF" width="100%" alt="Data science banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:650000&height=65&section=header&text=DATA%20SCIENCE%20%26%20ANALYTICS&fontSize=23&fontColor=000000" width="100%" alt="Data science banner"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Science-Learning-00A878?style=for-the-badge&logo=databricks&logoColor=white" alt="Data science learning badge"/>
-  <img src="https://img.shields.io/badge/Analytics-Exploring-003B2F?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Analytics badge"/>
+  <img src="https://img.shields.io/badge/Data%20Science-Learning-650000?style=for-the-badge&logo=databricks&logoColor=white" alt="Data science learning badge"/>
+  <img src="https://img.shields.io/badge/Analytics-Exploring-080808?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Analytics badge"/>
 </p>
 
 **Tools I'm learning and exploring:**
@@ -72,7 +71,7 @@
 <!-- ========== PYTHON DEVELOPMENT ========== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:003B2F,100:00A878&height=65&section=header&text=PYTHON%20DEVELOPMENT&fontSize=25&fontColor=FFFFFF" width="100%" alt="Python development banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:650000&height=65&section=header&text=PYTHON%20DEVELOPMENT&fontSize=25&fontColor=000000" width="100%" alt="Python development banner"/>
 </p>
 
 <p align="center">
@@ -93,7 +92,7 @@
 <!-- ========== WEB DEVELOPMENT ========== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:003B2F,100:00A878&height=65&section=header&text=WEB%20DEVELOPMENT&fontSize=25&fontColor=FFFFFF" width="100%" alt="Web development banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:650000&height=65&section=header&text=WEB%20DEVELOPMENT&fontSize=25&fontColor=000000" width="100%" alt="Web development banner"/>
 </p>
 
 <p align="center">
@@ -114,12 +113,12 @@
 <!-- ========== AI AND MACHINE LEARNING ========== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:003B2F,100:00A878&height=65&section=header&text=AI%20%26%20MACHINE%20LEARNING&fontSize=24&fontColor=FFFFFF" width="100%" alt="AI and machine learning banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:650000&height=65&section=header&text=AI%20%26%20MACHINE%20LEARNING&fontSize=24&fontColor=000000" width="100%" alt="AI and machine learning banner"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-Exploring-00A878?style=for-the-badge&logo=openai&logoColor=white" alt="AI badge"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-Learning-003B2F?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine learning badge"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-Exploring-650000?style=for-the-badge&logo=openai&logoColor=white" alt="AI badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Learning-080808?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine learning badge"/>
 </p>
 
 Currently exploring:
@@ -133,7 +132,7 @@ Currently exploring:
 <!-- ========== TECH STACK ========== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:003B2F,100:00A878&height=65&section=header&text=TECH%20STACK&fontSize=27&fontColor=FFFFFF" width="100%" alt="Tech stack banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:650000&height=65&section=header&text=TECH%20STACK&fontSize=27&fontColor=000000" width="100%" alt="Tech stack banner"/>
 </p>
 
 <p align="center">
@@ -147,7 +146,7 @@ Currently exploring:
 <!-- ========== DEVELOPER TERMINAL ========== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:003B2F,100:00A878&height=65&section=header&text=DEVELOPER%20TERMINAL&fontSize=25&fontColor=FFFFFF" width="100%" alt="Developer terminal banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:650000&height=65&section=header&text=DEVELOPER%20TERMINAL&fontSize=25&fontColor=000000" width="100%" alt="Developer terminal banner"/>
 </p>
 
 ```python
@@ -174,16 +173,16 @@ print(me.goal())
 <!-- ========== GITHUB STATS ========== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:003B2F,100:00A878&height=65&section=header&text=GITHUB%20STATISTICS&fontSize=25&fontColor=FFFFFF" width="100%" alt="GitHub statistics banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:650000&height=65&section=header&text=GITHUB%20STATISTICS&fontSize=25&fontColor=000000" width="100%" alt="GitHub statistics banner"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Muntasiir-Shaikh&show_icons=true&theme=dark&bg_color=001F18&title_color=00D9A6&icon_color=00D9A6&text_color=FFFFFF&hide_border=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muntasiir-Shaikh&layout=compact&theme=dark&bg_color=001F18&title_color=00D9A6&text_color=FFFFFF&hide_border=true" alt="Top languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Muntasiir-Shaikh&show_icons=true&theme=dark&bg_color=080808&title_color=FF2020&icon_color=FF2020&text_color=FFFFFF&hide_border=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muntasiir-Shaikh&layout=compact&theme=dark&bg_color=080808&title_color=FF2020&text_color=FFFFFF&hide_border=true" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Muntasiir-Shaikh&theme=dark&background=001F18&ring=00D9A6&fire=00D9A6&currStreakLabel=00D9A6&hide_border=true" width="80%" alt="GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com?user=Muntasiir-Shaikh&theme=dark&background=080808&ring=FF2020&fire=FF2020&currStreakLabel=FF2020&hide_border=true" width="80%" alt="GitHub contribution streak"/>
 </p>
 
 <p align="center">
@@ -195,7 +194,7 @@ print(me.goal())
 <!-- ========== ROADMAP ========== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:003B2F,100:00A878&height=65&section=header&text=MY%20LEARNING%20ROADMAP&fontSize=25&fontColor=FFFFFF" width="100%" alt="Learning roadmap banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:650000&height=65&section=header&text=MY%20LEARNING%20ROADMAP&fontSize=25&fontColor=000000" width="100%" alt="Learning roadmap banner"/>
 </p>
 
 ```text
@@ -225,12 +224,12 @@ Programming Fundamentals
 <!-- ========== CONNECT ========== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:003B2F,100:00A878&height=65&section=header&text=CONNECT%20WITH%20ME&fontSize=26&fontColor=FFFFFF" width="100%" alt="Connect banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:650000&height=65&section=header&text=CONNECT%20WITH%20ME&fontSize=26&fontColor=000000" width="100%" alt="Connect banner"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/Muntasiir-Shaikh">
-    <img src="https://img.shields.io/badge/GitHub-Muntasiir--Shaikh-00A878?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+    <img src="https://img.shields.io/badge/GitHub-Muntasiir--Shaikh-650000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
   </a>
 </p>
 
@@ -241,7 +240,7 @@ Programming Fundamentals
 <!-- ========== FOOTER ========== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9A6,50:006B50,100:001F18&height=120&section=footer" width="100%" alt="Dark emerald footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2020,50:650000,100:080808&height=120&section=footer" width="100%" alt="Dark crimson footer"/>
 </p>
 
 <p align="center">
