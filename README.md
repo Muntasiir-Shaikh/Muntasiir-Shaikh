@@ -2,7 +2,7 @@
 <!-- ========== HERO BANNER ========== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F18,50:006B50,100:00D9A6&height=220&section=header&text=Muntasiir%20Shaikh&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Scientist%20%7C%20Python%20Developer&descAlignY=58&descSize=16" width="100%" alt="Muntasiir Shaikh banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:650000,100:FF2020&height=220&section=header&text=Muntasiir%20Shaikh&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Scientist%20%7C%20Python%20Developer&descAlignY=58&descSize=16" width="100%" alt="Muntasiir Shaikh banner"/>
 </p>
 
 <p align="center">
