@@ -18,7 +18,7 @@
 <!-- ========== ABOUT ME ========== -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:080808,50:650000,100:FF2020&amp;height=200&amp;text=Hello">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:650000,100:FF2020&height=200&text=Hello">
 </p>
 
 - 🎓 Student currently studying in 11th/12th.
