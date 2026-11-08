@@ -18,7 +18,7 @@
 <!-- ========== ABOUT ME ========== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:650000&height=65&section=header&text=ABOUT%20ME&fontSize=27&fontColor=FFD700" width="100%" alt="About me section banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:080808,50:650000,100:FF2020&amp;height=200&amp;text=Hello">
 </p>
 
 - 🎓 Student currently studying in 11th/12th.
