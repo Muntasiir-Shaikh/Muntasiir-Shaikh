@@ -123,6 +123,7 @@
 </p>
 
 Currently exploring:
+
 - AI fundamentals
 - Machine Learning concepts
 - Data analysis
