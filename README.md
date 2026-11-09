@@ -1,4 +1,4 @@
- 
+```html
 <!-- ========== HERO BANNER ========== -->
 
 <p align="center">
@@ -51,16 +51,6 @@
 </p>
 
 ---
-
----
-
-<!-- ========== DEVELOPER MOTTO ========== -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=CODE.%20COMMIT.%20PUSH.%20REPEAT.&fontSize=30&fontColor=FFD700&animation=fadeIn&fontAlignY=55" width="100%" alt="Code. Commit. Push. Repeat."/>
-</p>
-
-
 
 <!-- ========== DATA SCIENCE ========== -->
 
@@ -300,3 +290,8 @@ Artificial Intelligence
 <p align="center">
   <b>Thanks for visiting my profile!</b>
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=CODE.+COMMIT.+PUSH.+REPEAT." alt="Code Commit Push Repeat"/>
+</p>
+```
