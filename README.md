@@ -1,4 +1,3 @@
-```html
 <!-- ========== HERO BANNER ========== -->
 
 <p align="center">
