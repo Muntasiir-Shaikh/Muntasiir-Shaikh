@@ -1,7 +1,8 @@
-<!-- ═══════════════════ HERO ═══════════════════ -->
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Muntasiir-Shaikh/Muntasiir-Shaikh/main/assets/hero.svg" width="100%" alt="Muntasiir Shaikh hero banner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=FFD700&center=true&vCenter=true&width=800&height=80&lines=MUNTASIIR+SHAIKH" alt="Muntasiir Shaikh"/>
+  <br/>
+  <img src="https://img.shields.io/badge/DATA%20SCIENCE-PYTHON-650000?style=for-the-badge&labelColor=080808" alt="Data Science Python"/>
+  <img src="https://img.shields.io/badge/ARTIFICIAL-INTELLIGENCE-650000?style=for-the-badge&labelColor=080808" alt="AI"/>
 </p>
 
 <p align="center">
@@ -21,10 +22,8 @@
 
 ---
 
-<!-- ═══════════════════ ABOUT ═══════════════════ -->
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Muntasiir-Shaikh/Muntasiir-Shaikh/main/assets/about.svg" width="100%" alt="About section"/>
+  <img src="https://img.shields.io/badge/01-ABOUT%20ME-650000?style=for-the-badge&labelColor=FFD700" alt="About me"/>
 </p>
 
 <p align="center">
@@ -44,10 +43,8 @@
 
 ---
 
-<!-- ═══════════════════ TECH ARSENAL ═══════════════════ -->
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Muntasiir-Shaikh/Muntasiir-Shaikh/main/assets/arsenal.svg" width="100%" alt="Tech arsenal"/>
+  <img src="https://img.shields.io/badge/02-TECH%20ARSENAL-650000?style=for-the-badge&labelColor=FFD700" alt="Tech arsenal"/>
 </p>
 
 ### ⚙️ Programming Languages
@@ -86,10 +83,8 @@
 
 ---
 
-<!-- ═══════════════════ PROJECTS ═══════════════════ -->
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Muntasiir-Shaikh/Muntasiir-Shaikh/main/assets/projects.svg" width="100%" alt="Projects section"/>
+  <img src="https://img.shields.io/badge/03-PROJECT%20SHOWCASE-650000?style=for-the-badge&labelColor=FFD700" alt="Project showcase"/>
 </p>
 
 <p align="center">
@@ -117,10 +112,8 @@
 
 ---
 
-<!-- ═══════════════════ DATA SCIENCE ═══════════════════ -->
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Muntasiir-Shaikh/Muntasiir-Shaikh/main/assets/datalab.svg" width="100%" alt="Data and AI section"/>
+  <img src="https://img.shields.io/badge/04-DATA%20%26%20AI%20LAB-650000?style=for-the-badge&labelColor=FFD700" alt="Data and AI lab"/>
 </p>
 
 <p align="center">
@@ -140,10 +133,8 @@
 
 ---
 
-<!-- ═══════════════════ DEVELOPER TERMINAL ═══════════════════ -->
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Muntasiir-Shaikh/Muntasiir-Shaikh/main/assets/terminal.svg" width="100%" alt="Developer terminal"/>
+  <img src="https://img.shields.io/badge/05-DEVELOPER%20TERMINAL-650000?style=for-the-badge&labelColor=FFD700" alt="Developer terminal"/>
 </p>
 
 ```python
@@ -170,10 +161,8 @@ print(me.mission())
 
 ---
 
-<!-- ═══════════════════ GITHUB COMMAND CENTER ═══════════════════ -->
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Muntasiir-Shaikh/Muntasiir-Shaikh/main/assets/github.svg" width="100%" alt="GitHub command center"/>
+  <img src="https://img.shields.io/badge/06-GITHUB%20COMMAND%20CENTER-650000?style=for-the-badge&labelColor=FFD700" alt="GitHub command center"/>
 </p>
 
 ### 📊 Performance Statistics
@@ -203,10 +192,8 @@ print(me.mission())
 
 ---
 
-<!-- ═══════════════════ ROADMAP ═══════════════════ -->
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Muntasiir-Shaikh/Muntasiir-Shaikh/main/assets/roadmap.svg" width="100%" alt="Roadmap"/>
+  <img src="https://img.shields.io/badge/07-FUTURE%20ROADMAP-650000?style=for-the-badge&labelColor=FFD700" alt="Future roadmap"/>
 </p>
 
 ```text
@@ -239,10 +226,8 @@ print(me.mission())
 
 ---
 
-<!-- ═══════════════════ CONNECT ═══════════════════ -->
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Muntasiir-Shaikh/Muntasiir-Shaikh/main/assets/connect.svg" width="100%" alt="Connect section"/>
+  <img src="https://img.shields.io/badge/08-CONNECT%20WITH%20ME-650000?style=for-the-badge&labelColor=FFD700" alt="Connect with me"/>
 </p>
 
 <p align="center">
@@ -257,44 +242,9 @@ print(me.mission())
 
 ---
 
-<!-- ═══════════════════ FOOTER ═══════════════════ -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Muntasiir-Shaikh/Muntasiir-Shaikh/main/assets/footer.svg" width="100%" alt="Footer"/>
-</p>
-
 <p align="center">
   <b>THANKS FOR VISITING MY PROFILE</b>
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=CODE.+COMMIT.+PUSH.+REPEAT." alt="Code commit push repeat"/>
 </p>
 
-
-
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 250" width="1280" height="250">
-<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#050505"/><stop offset="0.35" stop-color="#250000"/><stop offset="0.7" stop-color="#850000"/><stop offset="1" stop-color="#FF2020"/></linearGradient></defs>
-<path d="M0 0H1280V195C1120 240 960 240 800 200C640 160 480 160 320 200C160 240 80 230 0 205Z" fill="url(#g)"/>
-<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/>
-<text x="640" y="105" text-anchor="middle" font-size="46" fill="#FFD700" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="700">MUNTASIIR SHAIKH</text>
-<text x="640" y="150" text-anchor="middle" font-size="14" fill="#FFFFFF" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="700" letter-spacing="2">DATA SCIENCE | PYTHON | ARTIFICIAL INTELLIGENCE</text></g>
-</svg>
-
-
-
-
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 140" width="1280" height="140">
-<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FF2020"/><stop offset="0.45" stop-color="#650000"/><stop offset="1" stop-color="#080808"/></linearGradient></defs>
-<path d="M0 140H1280V35C1120 -5 960 -5 800 35C640 75 480 75 320 35C160 -5 80 5 0 30Z" fill="url(#g)"/>
-</svg>
-
-
-
-
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 65" width="1280" height="65" preserveAspectRatio="none">
-<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#080808"/><stop offset="1" stop-color="#650000"/></linearGradient></defs>
-<rect width="1280" height="65" fill="url(#g)"/>
-<text x="640" y="42" text-anchor="middle" font-size="24" fill="#FFD700" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="700">TEXT</text>
-</svg>
