@@ -44,7 +44,12 @@ A student passionate about programming, technology, and data.
 
 ### 📊 Data Science & Analytics
 
+
 <p align="center">
+  <img src="https://cdn.simpleicons.org/mysql/FFD700" height="45" alt="MySQL"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/FFD700" height="45" alt="PostgreSQL"/>
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/numpy/FFD700" height="45" alt="NumPy"/>
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/pandas/FFD700" height="45" alt="Pandas"/>
