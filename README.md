@@ -1,10 +1,11 @@
- <div align="center">
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:8B0000,100:FFD700&height=220&section=header&text=MUNTASIIR%20SHAIKH&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Python%20Developer%20%7C%20Aspiring%20Data%20Scientist&descAlignY=58&descSize=16" width="100%" alt="Profile banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=650&lines=Python+Developer+in+Progress;Aspiring+Data+Scientist;Exploring+AI+%26+Machine+Learning;Learn+%7C+Build+%7C+Improve" alt="Typing animation"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Muntasiir-Shaikh&style=for-the-badge&color=8B0000&label=PROFILE+VIEWS" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/Muntasiir-Shaikh?style=for-the-badge&color=8B0000&labelColor=080808&logo=github&logoColor=FFD700" alt="Followers"/>
@@ -15,6 +16,14 @@
 ---
 
 <h2 align="center">🖤 ABOUT ME ❤️</h2>
+
+<div align="center">
+
+**Hey! I'm Muntasiir Shaikh.**
+
+A student passionate about programming, technology, and data.
+
+</div>
 
 - 🎓 Student passionate about programming and technology.
 - 🐍 Learning Python and improving my coding skills.
@@ -60,7 +69,7 @@
 <div align="center">
 
 <a href="https://github.com/Muntasiir-Shaikh/python-mini-projects">
-<img src="https://img.shields.io/badge/Python_Mini_Projects-080808?style=for-the-badge&logo=python&logoColor=FFD700" alt="Python Mini Projects"/>
+<img src="https://img.shields.io/badge/PYTHON_MINI_PROJECTS-080808?style=for-the-badge&logo=python&logoColor=FFD700" alt="Python Mini Projects"/>
 </a>
 
 </div>
@@ -71,6 +80,14 @@
 | 🎯 [Number Guessing Game](https://github.com/Muntasiir-Shaikh/python-mini-projects/tree/main/Number%20guessing%20game) | Guess the randomly generated number |
 | 📝 [Quiz App](https://github.com/Muntasiir-Shaikh/python-mini-projects/tree/main/Quiz%20app) | Beginner-friendly quiz application |
 | ✅ [Todo List](https://github.com/Muntasiir-Shaikh/python-mini-projects/tree/main/Todo%20list) | Simple task management program |
+
+<div align="center">
+
+<a href="https://github.com/Muntasiir-Shaikh/python-mini-projects">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-8B0000?style=for-the-badge&logo=github&logoColor=FFD700" alt="Explore projects"/>
+</a>
+
+</div>
 
 ---
 
