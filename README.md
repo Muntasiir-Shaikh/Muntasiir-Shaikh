@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=1500&color=FFD700&background=250000&center=true&vCenter=true&width=1000&height=200&lines=MUNTASIIR+SHAIKH;DATA+SCIENCE+%7C+PYTHON+%7C+AI" alt="Muntasiir Shaikh hero banner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=44&duration=3500&pause=1200&color=FFD700&background=1A0000&center=true&vCenter=true&width=1000&height=220&letterSpacing=4px&lines=MUNTASIIR+SHAIKH;DATA+SCIENCE;PYTHON+DEVELOPER;ARTIFICIAL+INTELLIGENCE" alt="Muntasiir Shaikh hero banner"/>
 </p>
 
 <p align="center">
@@ -17,10 +17,12 @@
   <b>⚡ Turning curiosity into code and data into insights.</b>
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=300&color=FF2020&center=true&vCenter=true&width=1000&height=25&lines=%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0" alt="divider"/>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=1000&color=FFD700&background=650000&repeat=false&center=true&vCenter=true&width=1000&height=65&lines=01+%2F+ABOUT+ME" alt="About me"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=2500&color=FFD700&background=650000&center=true&vCenter=true&width=1000&height=70&letterSpacing=3px&lines=01+%2F+ABOUT+ME" alt="About me"/>
 </p>
 
 <p align="center">
@@ -38,10 +40,8 @@
   <i>"Great things are built one line of code at a time."</i>
 </p>
 
----
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=1000&color=FFD700&background=650000&repeat=false&center=true&vCenter=true&width=1000&height=65&lines=02+%2F+TECH+ARSENAL" alt="Tech arsenal"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=2500&color=FFD700&background=650000&center=true&vCenter=true&width=1000&height=70&letterSpacing=3px&lines=02+%2F+TECH+ARSENAL" alt="Tech arsenal"/>
 </p>
 
 ### ⚙️ Programming Languages
@@ -78,10 +78,8 @@
   <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,pycharm&theme=dark" alt="Developer tools"/>
 </p>
 
----
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=1000&color=FFD700&background=650000&repeat=false&center=true&vCenter=true&width=1000&height=65&lines=03+%2F+PROJECT+SHOWCASE" alt="Project showcase"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=2500&color=FFD700&background=650000&center=true&vCenter=true&width=1000&height=70&letterSpacing=3px&lines=03+%2F+PROJECT+SHOWCASE" alt="Project showcase"/>
 </p>
 
 <p align="center">
@@ -107,10 +105,8 @@
   </a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=1000&color=FFD700&background=650000&repeat=false&center=true&vCenter=true&width=1000&height=65&lines=04+%2F+DATA+%26+AI+LAB" alt="Data and AI lab"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=2500&color=FFD700&background=650000&center=true&vCenter=true&width=1000&height=70&letterSpacing=3px&lines=04+%2F+DATA+%26+AI+LAB" alt="Data and AI lab"/>
 </p>
 
 <p align="center">
@@ -128,10 +124,8 @@
 - Machine Learning fundamentals
 - Artificial Intelligence
 
----
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2000&pause=1000&color=FFD700&background=650000&repeat=false&center=true&vCenter=true&width=1000&height=65&lines=05+%2F+DEVELOPER+TERMINAL" alt="Developer terminal"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2500&pause=2500&color=FFD700&background=650000&center=true&vCenter=true&width=1000&height=70&letterSpacing=3px&lines=05+%2F+DEVELOPER+TERMINAL" alt="Developer terminal"/>
 </p>
 
 ```python
@@ -156,10 +150,8 @@ me = Developer()
 print(me.mission())
 ```
 
----
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2000&pause=1000&color=FFD700&background=650000&repeat=false&center=true&vCenter=true&width=1000&height=65&lines=06+%2F+GITHUB+COMMAND+CENTER" alt="GitHub command center"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2500&pause=2500&color=FFD700&background=650000&center=true&vCenter=true&width=1000&height=70&letterSpacing=3px&lines=06+%2F+GITHUB+COMMAND+CENTER" alt="GitHub command center"/>
 </p>
 
 ### 📊 Performance Statistics
@@ -187,10 +179,8 @@ print(me.mission())
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muntasiir-Shaikh&bg_color=080808&color=FFFFFF&line=FF2020&point=FFD700&area=true&area_color=650000&hide_border=true" width="100%" alt="Contribution graph"/>
 </p>
 
----
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=1000&color=FFD700&background=650000&repeat=false&center=true&vCenter=true&width=1000&height=65&lines=07+%2F+FUTURE+ROADMAP" alt="Future roadmap"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=2500&color=FFD700&background=650000&center=true&vCenter=true&width=1000&height=70&letterSpacing=3px&lines=07+%2F+FUTURE+ROADMAP" alt="Future roadmap"/>
 </p>
 
 ```text
@@ -221,10 +211,8 @@ print(me.mission())
           DATA SCIENTIST
 ```
 
----
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=1000&color=FFD700&background=650000&repeat=false&center=true&vCenter=true&width=1000&height=65&lines=08+%2F+CONNECT+WITH+ME" alt="Connect with me"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=2500&color=FFD700&background=650000&center=true&vCenter=true&width=1000&height=70&letterSpacing=3px&lines=08+%2F+CONNECT+WITH+ME" alt="Connect with me"/>
 </p>
 
 <p align="center">
@@ -237,10 +225,6 @@ print(me.mission())
   💬 Always interested in learning, building and exploring new ideas.
 </p>
 
----
-
 <p align="center">
-  <b>THANKS FOR VISITING MY PROFILE</b>
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=CODE.+COMMIT.+PUSH.+REPEAT." alt="Code commit push repeat"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=20&duration=3000&pause=1000&color=FFD700&background=1A0000&center=true&vCenter=true&width=1000&height=100&letterSpacing=3px&lines=THANKS+FOR+VISITING+MY+PROFILE;CODE.+COMMIT.+PUSH.+REPEAT." alt="Footer"/>
 </p>
