@@ -48,12 +48,11 @@ A student passionate about programming, technology, and data.
 ### 📊 Data Science & Analytics
 
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Database tools"/>
-
-<img src="https://img.shields.io/badge/NumPy-080808?style=for-the-badge&logo=numpy&logoColor=FFD700" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Pandas-080808?style=for-the-badge&logo=pandas&logoColor=FFD700" alt="Pandas"/>
-<img src="https://img.shields.io/badge/Matplotlib-080808?style=for-the-badge&logo=python&logoColor=FFD700" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Power_BI-080808?style=for-the-badge&logo=powerbi&logoColor=FFD700" alt="Power BI"/>
-<img src="https://img.shields.io/badge/Excel-080808?style=for-the-badge&logo=microsoftexcel&logoColor=FFD700" alt="Excel"/>
+  <img src="https://img.shields.io/badge/NumPy-080808?style=for-the-badge&logo=numpy&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/Pandas-080808?style=for-the-badge&logo=pandas&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/Matplotlib-080808?style=for-the-badge&logo=python&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/Power_BI-080808?style=for-the-badge&logo=powerbi&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/Excel-080808?style=for-the-badge&logo=microsoftexcel&logoColor=FFD700" />
 
 ### 🌐 Web Development
 
