@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Muntasiir-Shaikh/Muntasiir-Shaikh/main/assets/hero.svg" width="100%" alt="Muntasiir Shaikh hero banner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=1500&color=FFD700&background=250000&center=true&vCenter=true&width=1000&height=200&lines=MUNTASIIR+SHAIKH;DATA+SCIENCE+%7C+PYTHON+%7C+AI" alt="Muntasiir Shaikh hero banner"/>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Muntasiir-Shaikh/Muntasiir-Shaikh/main/assets/about.svg" width="100%" alt="About me"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=1000&color=FFD700&background=650000&repeat=false&center=true&vCenter=true&width=1000&height=65&lines=01+%2F+ABOUT+ME" alt="About me"/>
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Muntasiir-Shaikh/Muntasiir-Shaikh/main/assets/arsenal.svg" width="100%" alt="Tech arsenal"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=1000&color=FFD700&background=650000&repeat=false&center=true&vCenter=true&width=1000&height=65&lines=02+%2F+TECH+ARSENAL" alt="Tech arsenal"/>
 </p>
 
 ### ⚙️ Programming Languages
@@ -81,7 +81,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Muntasiir-Shaikh/Muntasiir-Shaikh/main/assets/projects.svg" width="100%" alt="Project showcase"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=1000&color=FFD700&background=650000&repeat=false&center=true&vCenter=true&width=1000&height=65&lines=03+%2F+PROJECT+SHOWCASE" alt="Project showcase"/>
 </p>
 
 <p align="center">
@@ -110,7 +110,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Muntasiir-Shaikh/Muntasiir-Shaikh/main/assets/datalab.svg" width="100%" alt="Data and AI lab"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=1000&color=FFD700&background=650000&repeat=false&center=true&vCenter=true&width=1000&height=65&lines=04+%2F+DATA+%26+AI+LAB" alt="Data and AI lab"/>
 </p>
 
 <p align="center">
@@ -131,7 +131,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Muntasiir-Shaikh/Muntasiir-Shaikh/main/assets/terminal.svg" width="100%" alt="Developer terminal"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2000&pause=1000&color=FFD700&background=650000&repeat=false&center=true&vCenter=true&width=1000&height=65&lines=05+%2F+DEVELOPER+TERMINAL" alt="Developer terminal"/>
 </p>
 
 ```python
@@ -159,7 +159,7 @@ print(me.mission())
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Muntasiir-Shaikh/Muntasiir-Shaikh/main/assets/github.svg" width="100%" alt="GitHub command center"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2000&pause=1000&color=FFD700&background=650000&repeat=false&center=true&vCenter=true&width=1000&height=65&lines=06+%2F+GITHUB+COMMAND+CENTER" alt="GitHub command center"/>
 </p>
 
 ### 📊 Performance Statistics
@@ -190,7 +190,7 @@ print(me.mission())
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Muntasiir-Shaikh/Muntasiir-Shaikh/main/assets/roadmap.svg" width="100%" alt="Future roadmap"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=1000&color=FFD700&background=650000&repeat=false&center=true&vCenter=true&width=1000&height=65&lines=07+%2F+FUTURE+ROADMAP" alt="Future roadmap"/>
 </p>
 
 ```text
@@ -224,7 +224,7 @@ print(me.mission())
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Muntasiir-Shaikh/Muntasiir-Shaikh/main/assets/connect.svg" width="100%" alt="Connect with me"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=1000&color=FFD700&background=650000&repeat=false&center=true&vCenter=true&width=1000&height=65&lines=08+%2F+CONNECT+WITH+ME" alt="Connect with me"/>
 </p>
 
 <p align="center">
@@ -240,11 +240,7 @@ print(me.mission())
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Muntasiir-Shaikh/Muntasiir-Shaikh/main/assets/footer.svg" width="100%" alt="Footer"/>
-</p>
-
-<p align="center">
   <b>THANKS FOR VISITING MY PROFILE</b>
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=CODE+COMMIT+PUSH+REPEAT." alt="Code commit push repeat"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=CODE.+COMMIT.+PUSH.+REPEAT." alt="Code commit push repeat"/>
 </p>
