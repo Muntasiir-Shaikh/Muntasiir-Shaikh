@@ -268,3 +268,33 @@ print(me.mission())
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=CODE.+COMMIT.+PUSH.+REPEAT." alt="Code commit push repeat"/>
 </p>
+
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 250" width="1280" height="250">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#050505"/><stop offset="0.35" stop-color="#250000"/><stop offset="0.7" stop-color="#850000"/><stop offset="1" stop-color="#FF2020"/></linearGradient></defs>
+<path d="M0 0H1280V195C1120 240 960 240 800 200C640 160 480 160 320 200C160 240 80 230 0 205Z" fill="url(#g)"/>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/>
+<text x="640" y="105" text-anchor="middle" font-size="46" fill="#FFD700" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="700">MUNTASIIR SHAIKH</text>
+<text x="640" y="150" text-anchor="middle" font-size="14" fill="#FFFFFF" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="700" letter-spacing="2">DATA SCIENCE | PYTHON | ARTIFICIAL INTELLIGENCE</text></g>
+</svg>
+
+
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 140" width="1280" height="140">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FF2020"/><stop offset="0.45" stop-color="#650000"/><stop offset="1" stop-color="#080808"/></linearGradient></defs>
+<path d="M0 140H1280V35C1120 -5 960 -5 800 35C640 75 480 75 320 35C160 -5 80 5 0 30Z" fill="url(#g)"/>
+</svg>
+
+
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 65" width="1280" height="65" preserveAspectRatio="none">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#080808"/><stop offset="1" stop-color="#650000"/></linearGradient></defs>
+<rect width="1280" height="65" fill="url(#g)"/>
+<text x="640" y="42" text-anchor="middle" font-size="24" fill="#FFD700" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="700">TEXT</text>
+</svg>
