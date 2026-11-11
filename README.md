@@ -55,7 +55,7 @@ A student passionate about programming, technology, and data.
   &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="50" alt="Matplotlib"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="50" alt="Power BI"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/microsoftexcel.svg" height="50" alt="Microsoft Excel"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="50" alt="Microsoft Excel"/>
 
 </p>
 
