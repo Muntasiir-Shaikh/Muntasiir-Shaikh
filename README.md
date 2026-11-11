@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=44&duration=3500&pause=1200&color=FFD700&background=1A0000&center=true&vCenter=true&width=1000&height=220&letterSpacing=4px&lines=MUNTASIIR+SHAIKH;DATA+SCIENCE;PYTHON+DEVELOPER;ARTIFICIAL+INTELLIGENCE" alt="Muntasiir Shaikh hero banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:250000,70:850000,100:FF2020&height=260&section=header&text=MUNTASIIR%20SHAIKH&fontSize=48&fontColor=FFD700&animation=twinkling&fontAlignY=38&desc=DATA%20SCIENCE%20%7C%20PYTHON%20%7C%20ARTIFICIAL%20INTELLIGENCE&descSize=15&descAlignY=60&descColor=FFFFFF" width="100%" alt="Muntasiir Shaikh hero banner"/>
 </p>
 
 <p align="center">
@@ -17,12 +17,10 @@
   <b>⚡ Turning curiosity into code and data into insights.</b>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=300&color=FF2020&center=true&vCenter=true&width=1000&height=25&lines=%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0" alt="divider"/>
-</p>
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=2500&color=FFD700&background=650000&center=true&vCenter=true&width=1000&height=70&letterSpacing=3px&lines=01+%2F+ABOUT+ME" alt="About me"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,100:650000&height=110&section=header&text=01%20%2F%20ABOUT%20ME&fontSize=28&fontColor=FFD700&animation=fadeIn&fontAlignY=42" width="100%" alt="About me"/>
 </p>
 
 <p align="center">
@@ -40,8 +38,10 @@
   <i>"Great things are built one line of code at a time."</i>
 </p>
 
+---
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=2500&color=FFD700&background=650000&center=true&vCenter=true&width=1000&height=70&letterSpacing=3px&lines=02+%2F+TECH+ARSENAL" alt="Tech arsenal"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,100:650000&height=110&section=header&text=02%20%2F%20TECH%20ARSENAL&fontSize=28&fontColor=FFD700&animation=fadeIn&fontAlignY=42" width="100%" alt="Tech arsenal"/>
 </p>
 
 ### ⚙️ Programming Languages
@@ -78,8 +78,10 @@
   <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,pycharm&theme=dark" alt="Developer tools"/>
 </p>
 
+---
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=2500&color=FFD700&background=650000&center=true&vCenter=true&width=1000&height=70&letterSpacing=3px&lines=03+%2F+PROJECT+SHOWCASE" alt="Project showcase"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,100:650000&height=110&section=header&text=03%20%2F%20PROJECT%20SHOWCASE&fontSize=27&fontColor=FFD700&animation=fadeIn&fontAlignY=42" width="100%" alt="Project showcase"/>
 </p>
 
 <p align="center">
@@ -105,8 +107,10 @@
   </a>
 </p>
 
+---
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=2500&color=FFD700&background=650000&center=true&vCenter=true&width=1000&height=70&letterSpacing=3px&lines=04+%2F+DATA+%26+AI+LAB" alt="Data and AI lab"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,100:650000&height=110&section=header&text=04%20%2F%20DATA%20%26%20AI%20LAB&fontSize=27&fontColor=FFD700&animation=fadeIn&fontAlignY=42" width="100%" alt="Data and AI lab"/>
 </p>
 
 <p align="center">
@@ -124,8 +128,10 @@
 - Machine Learning fundamentals
 - Artificial Intelligence
 
+---
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2500&pause=2500&color=FFD700&background=650000&center=true&vCenter=true&width=1000&height=70&letterSpacing=3px&lines=05+%2F+DEVELOPER+TERMINAL" alt="Developer terminal"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,100:650000&height=110&section=header&text=05%20%2F%20DEVELOPER%20TERMINAL&fontSize=26&fontColor=FFD700&animation=fadeIn&fontAlignY=42" width="100%" alt="Developer terminal"/>
 </p>
 
 ```python
@@ -150,8 +156,10 @@ me = Developer()
 print(me.mission())
 ```
 
+---
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2500&pause=2500&color=FFD700&background=650000&center=true&vCenter=true&width=1000&height=70&letterSpacing=3px&lines=06+%2F+GITHUB+COMMAND+CENTER" alt="GitHub command center"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,100:650000&height=110&section=header&text=06%20%2F%20GITHUB%20COMMAND%20CENTER&fontSize=26&fontColor=FFD700&animation=fadeIn&fontAlignY=42" width="100%" alt="GitHub command center"/>
 </p>
 
 ### 📊 Performance Statistics
@@ -179,8 +187,10 @@ print(me.mission())
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muntasiir-Shaikh&bg_color=080808&color=FFFFFF&line=FF2020&point=FFD700&area=true&area_color=650000&hide_border=true" width="100%" alt="Contribution graph"/>
 </p>
 
+---
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=2500&color=FFD700&background=650000&center=true&vCenter=true&width=1000&height=70&letterSpacing=3px&lines=07+%2F+FUTURE+ROADMAP" alt="Future roadmap"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,100:650000&height=110&section=header&text=07%20%2F%20FUTURE%20ROADMAP&fontSize=27&fontColor=FFD700&animation=fadeIn&fontAlignY=42" width="100%" alt="Future roadmap"/>
 </p>
 
 ```text
@@ -211,8 +221,10 @@ print(me.mission())
           DATA SCIENTIST
 ```
 
+---
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=2500&color=FFD700&background=650000&center=true&vCenter=true&width=1000&height=70&letterSpacing=3px&lines=08+%2F+CONNECT+WITH+ME" alt="Connect with me"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,100:650000&height=110&section=header&text=08%20%2F%20CONNECT%20WITH%20ME&fontSize=27&fontColor=FFD700&animation=fadeIn&fontAlignY=42" width="100%" alt="Connect with me"/>
 </p>
 
 <p align="center">
@@ -225,6 +237,14 @@ print(me.mission())
   💬 Always interested in learning, building and exploring new ideas.
 </p>
 
+---
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=20&duration=3000&pause=1000&color=FFD700&background=1A0000&center=true&vCenter=true&width=1000&height=100&letterSpacing=3px&lines=THANKS+FOR+VISITING+MY+PROFILE;CODE.+COMMIT.+PUSH.+REPEAT." alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2020,45:650000,100:080808&height=150&section=footer" width="100%" alt="Footer"/>
+</p>
+
+<p align="center">
+  <b>THANKS FOR VISITING MY PROFILE</b>
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=CODE.+COMMIT.+PUSH.+REPEAT." alt="Code commit push repeat"/>
 </p>
