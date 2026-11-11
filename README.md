@@ -19,10 +19,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,50:8B0000,100:080808&height=100&section=header&text=ABOUT%20ME&fontSize=35&fontColor=FFD700&animation=fadeIn" width="100%" alt="About Me banner"/>
 
-</div>
-
-<div align="center">
-
 **Hey! I'm Muntasiir Shaikh.**
 
 A student passionate about programming, technology, and data.
@@ -35,6 +31,7 @@ A student passionate about programming, technology, and data.
 - 🤖🚀 Exploring Artificial Intelligence & Machine Learning. 💡⚙️
 - 💡🛠️ Building creative projects and turning ideas into reality. 🎯✨
 - 🚀🔥 Focused on continuous learning, growth & self-improvement. 🌱🏆
+
 ---
 
 <div align="center">
@@ -48,13 +45,14 @@ A student passionate about programming, technology, and data.
 ### 📊 Data Science & Analytics
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Database tools"/>
-  <img src="https://img.shields.io/badge/NumPy-080808?style=for-the-badge&logo=numpy&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/Pandas-080808?style=for-the-badge&logo=pandas&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/Matplotlib-080808?style=for-the-badge&logo=python&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/Power_BI-080808?style=for-the-badge&logo=powerbi&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/Excel-080808?style=for-the-badge&logo=microsoftexcel&logoColor=FFD700" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/NumPy-080808?style=for-the-badge&logo=numpy&logoColor=FFD700" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-080808?style=for-the-badge&logo=pandas&logoColor=FFD700" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-080808?style=for-the-badge&logo=python&logoColor=FFD700" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Power_BI-080808?style=for-the-badge&logo=powerbi&logoColor=FFD700" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Excel-080808?style=for-the-badge&logo=microsoftexcel&logoColor=FFD700" alt="Excel"/>
 </p>
+
 ### 🌐 Web Development
 
 <img src="https://skillicons.dev/icons?i=html,css,angular&theme=dark" alt="Web development"/>
