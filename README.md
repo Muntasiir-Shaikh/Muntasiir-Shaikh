@@ -1,276 +1,225 @@
-<!-- ========== HERO BANNER ========== -->
+# 👨‍💻 Muntasiir Shaikh | Aspiring Data Scientist
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:650000,100:FF2020&height=220&section=header&text=Muntasiir%20Shaikh&fontSize=48&fontColor=FFD700&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Scientist%20%7C%20Python%20Developer&descAlignY=58&descSize=16" width="100%" alt="Muntasiir Shaikh banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:650000,100:FF2020&height=230&section=header&text=Muntasiir%20Shaikh&fontSize=48&fontColor=FFD700&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Scientist%20%7C%20Python%20Developer&descAlignY=58&descSize=17" width="100%" alt="Profile banner"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF2020&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Learning+Python+%26+Data+Science;Exploring+AI+%26+Machine+Learning;Building+Projects+and+Learning+Every+Day" alt="Typing introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF2020&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Learning+Python+and+Data+Science;Exploring+AI+and+Machine+Learning;Building+Projects+Every+Day" alt="Typing introduction"/>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Muntasiir-Shaikh&label=PROFILE%20VIEWS&color=650000&style=for-the-badge" alt="Profile views"/>
-</p>
-
-<p align="center">
   <a href="https://github.com/Muntasiir-Shaikh?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-My%20Repositories-650000?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+    <img src="https://img.shields.io/badge/Explore-My%20Repositories-650000?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
   </a>
 </p>
 
 ---
 
-<!-- ========== ABOUT ME ========== -->
+## 🧑‍💻 About Me
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:650000&height=65&section=header&text=ABOUT%20ME&fontSize=27&fontColor=FFD700" width="100%" alt="About me section banner"/>
-</p>
-
-- 🎓 Student currently studying in 11th/12th.
-- 🌱 Enthusiastic about learning new technologies.
-- 🐍 Interested in Python and programming.
-- 📊 Aspiring to become a Data Scientist.
+- 🎓 Student passionate about technology and programming.
+- 🐍 Learning Python and improving my programming skills.
+- 📊 Aspiring Data Scientist interested in data and analytics.
 - 🤖 Exploring Artificial Intelligence and Machine Learning.
-- 💡 Believe in learning by building projects.
-
----
-
-<!-- ========== DEVELOPER IDENTITY ========== -->
+- 💡 I enjoy learning by building practical projects.
+- 🚀 Focused on continuous learning and improvement.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:650000&height=65&section=header&text=DEVELOPER%20IDENTITY&fontSize=25&fontColor=FFD700" width="100%" alt="Developer identity banner"/>
-</p>
-
-<p align="center">
-  <b>Aspiring Data Scientist | Python Developer | AI &amp; ML Enthusiast</b>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,php,html,css,linux,vscode,github,mysql&theme=dark" alt="Programming and developer tool icons"/>
+  <b>Turning Curiosity into Code and Data into Insights.</b>
 </p>
 
 ---
 
-<!-- ========== DATA SCIENCE ========== -->
+## 👨‍💻 Developer Identity
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:650000&height=65&section=header&text=DATA%20SCIENCE%20%26%20ANALYTICS&fontSize=23&fontColor=FFD700" width="100%" alt="Data science banner"/>
+  <img src="https://img.shields.io/badge/Role-Aspiring%20Data%20Scientist-650000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Python%20Development-080808?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Interest-AI%20%26%20ML-650000?style=for-the-badge"/>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Science-Learning-650000?style=for-the-badge&logo=databricks&logoColor=white" alt="Data science learning badge"/>
-  <img src="https://img.shields.io/badge/Analytics-Exploring-080808?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Analytics badge"/>
-</p>
-
-**Tools I'm learning and exploring:**
-
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- Microsoft Excel
-- Power BI
-- SQL
 
 ---
 
-<!-- ========== PYTHON DEVELOPMENT ========== -->
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:650000&height=65&section=header&text=PYTHON%20DEVELOPMENT&fontSize=25&fontColor=FFD700" width="100%" alt="Python development banner"/>
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,php&theme=dark" alt="Programming languages"/>
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="85" alt="Python logo"/>
+### Data Science & Analytics
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" alt="Data science tools"/>
 </p>
 
-**Python projects I've practised:**
+| Technology | Focus |
+|---|---|
+| Python | Programming and automation |
+| NumPy | Numerical computing |
+| Pandas | Data manipulation |
+| Matplotlib | Data visualization |
+| SQL | Database fundamentals |
+| Excel | Data analysis |
+| Power BI | Data visualization |
 
-- Simple Calculator
-- Number Guessing Game
-- To-Do List App
-- Student Marks Calculator
-- Password Generator
-- Quiz Application
+### Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,angular&theme=dark" alt="Web development"/>
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,vscode,github,git,pycharm&theme=dark" alt="Developer tools"/>
+</p>
 
 ---
 
-<!-- ========== WEB DEVELOPMENT ========== -->
+## 🚀 Featured Projects
+
+Here are some projects I have worked on while learning Python.
+
+| Project | Description | Technology |
+|---|---|---|
+| [Python Mini Projects](https://github.com/Muntasiir-Shaikh/python-mini-projects) | Collection of beginner-friendly Python projects | Python |
+| Calculator | Basic arithmetic calculator | Python |
+| Number Guessing Game | Random number guessing game | Python |
+| Quiz App | Interactive question and answer application | Python |
+| Todo List | Simple task management application | Python |
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:650000&height=65&section=header&text=WEB%20DEVELOPMENT&fontSize=25&fontColor=FFD700" width="100%" alt="Web development banner"/>
+  <a href="https://github.com/Muntasiir-Shaikh?tab=repositories">
+    <img src="https://img.shields.io/badge/VIEW-ALL%20PROJECTS-650000?style=for-the-badge&logo=github&logoColor=white" alt="View projects"/>
+  </a>
 </p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,angular&theme=dark" height="65" alt="Web development technology icons"/>
-</p>
-
-**Practice projects:**
-
-- Personal Portfolio Website
-- Login and Signup Page (Demo)
-- Online Food Menu
-- Simple Weather Website
-- Student Registration Form
-- Basic Online Shopping Website (Demo)
 
 ---
 
-<!-- ========== AI AND MACHINE LEARNING ========== -->
+## 📊 Data Science & Artificial Intelligence
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:650000&height=65&section=header&text=AI%20%26%20MACHINE%20LEARNING&fontSize=24&fontColor=FFD700" width="100%" alt="AI and machine learning banner"/>
+  <img src="https://img.shields.io/badge/Data%20Science-Learning-650000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-Exploring-080808?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Learning-650000?style=for-the-badge"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-Exploring-650000?style=for-the-badge&logo=openai&logoColor=white" alt="AI badge"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-Learning-080808?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine learning badge"/>
-</p>
+### Current Learning Interests
 
-Currently exploring:
-
-- AI fundamentals
-- Machine Learning concepts
-- Data analysis
-- Python for AI and ML
+- Python for Data Science
+- Data Cleaning and Analysis
+- Statistics and Mathematics
+- Data Visualization
+- Machine Learning Fundamentals
+- Artificial Intelligence
 
 ---
 
-<!-- ========== TECH STACK ========== -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:650000&height=65&section=header&text=TECH%20STACK&fontSize=27&fontColor=FFD700" width="100%" alt="Tech stack banner"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,php,html,css,angular,mysql,linux,vscode,github&theme=dark" alt="Technology stack icons"/>
-</p>
-
-**Other tools:** NumPy, Pandas, Matplotlib, Excel, Power BI, Google Colab and PyCharm.
-
----
-
-<!-- ========== DEVELOPER TERMINAL ========== -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:650000&height=65&section=header&text=DEVELOPER%20TERMINAL&fontSize=25&fontColor=FFD700" width="100%" alt="Developer terminal banner"/>
-</p>
+## 💻 Developer Terminal
 
 ```python
 class Developer:
+
     def __init__(self):
         self.name = "Muntasiir Shaikh"
         self.role = "Aspiring Data Scientist"
-        self.language = ["Python", "C", "C++", "Java", "SQL", "PHP"]
+
+        self.languages = [
+            "Python",
+            "C",
+            "C++",
+            "Java",
+            "SQL"
+        ]
+
         self.interests = [
             "Data Science",
+            "Artificial Intelligence",
             "Machine Learning",
-            "Artificial Intelligence"
+            "Problem Solving"
         ]
 
     def goal(self):
         return "Learn, Build, Improve, Repeat!"
 
+
 me = Developer()
+
 print(me.goal())
 ```
 
 ---
 
-<!-- ========== GITHUB STATS ========== -->
+## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:650000&height=65&section=header&text=GITHUB%20STATISTICS&fontSize=25&fontColor=FFD700" width="100%" alt="GitHub statistics banner"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Muntasiir-Shaikh&show_icons=true&theme=dark&bg_color=080808&title_color=FF2020&icon_color=FFD700&text_color=FFFFFF&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muntasiir-Shaikh&layout=compact&theme=dark&bg_color=080808&title_color=FF2020&text_color=FFFFFF&hide_border=true" alt="Most used languages"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Muntasiir-Shaikh&show_icons=true&theme=dark&bg_color=080808&title_color=FF2020&icon_color=FF2020&text_color=FFFFFF&hide_border=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muntasiir-Shaikh&layout=compact&theme=dark&bg_color=080808&title_color=FF2020&text_color=FFFFFF&hide_border=true" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Muntasiir-Shaikh&theme=dark&background=080808&ring=FF2020&fire=FF2020&currStreakLabel=FF2020&hide_border=true" width="80%" alt="GitHub contribution streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muntasiir-Shaikh&theme=matrix&no-frame=true&no-bg=true&margin-w=8" width="90%" alt="GitHub trophies"/>
+  <img src="https://streak-stats.demolab.com?user=Muntasiir-Shaikh&theme=dark&background=080808&ring=FF2020&fire=FFD700&currStreakLabel=FF2020&hide_border=true" width="80%" alt="GitHub streak"/>
 </p>
 
 ---
 
-<!-- ========== CONTRIBUTION GRAPH ========== -->
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:650000&height=65&section=header&text=CONTRIBUTION%20GRAPH&fontSize=25&fontColor=FFD700" width="100%" alt="Contribution graph banner"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Muntasiir-Shaikh">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muntasiir-Shaikh&bg_color=080808&color=FFFFFF&line=FF2020&point=FFD700&area=true&area_color=650000&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Muntasiir-Shaikh&theme=matrix&no-frame=true&no-bg=true&margin-w=8" width="95%" alt="GitHub trophies"/>
 </p>
 
 ---
 
-<!-- ========== RECENT ACTIVITY ========== -->
+## 📉 Contribution Graph
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:650000&height=65&section=header&text=RECENT%20ACTIVITY&fontSize=25&fontColor=FFD700" width="100%" alt="Recent activity banner"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Muntasiir-Shaikh">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muntasiir-Shaikh&bg_color=080808&color=FFFFFF&line=FF2020&point=FFD700&area=true&area_color=650000&hide_border=true&custom_title=Recent%20GitHub%20Activity" width="100%" alt="Recent GitHub activity"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Muntasiir-Shaikh?tab=overview">
-    <img src="https://img.shields.io/badge/View-Full%20GitHub%20Activity-650000?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub activity"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muntasiir-Shaikh&bg_color=080808&color=FFFFFF&line=FF2020&point=FFD700&area=true&area_color=650000&hide_border=true" width="100%" alt="Contribution graph"/>
 </p>
 
 ---
 
-<!-- ========== ROADMAP ========== -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:650000&height=65&section=header&text=MY%20LEARNING%20ROADMAP&fontSize=25&fontColor=FFD700" width="100%" alt="Learning roadmap banner"/>
-</p>
+## 🎯 My Learning Roadmap
 
 ```text
 Programming Fundamentals
-         |
-         v
-       Python
-         |
-         v
-   Data Analysis
-         |
-         v
-   Statistics & SQL
-         |
-         v
+          |
+          v
+        Python
+          |
+          v
+   NumPy and Pandas
+          |
+          v
+ Data Analysis & Statistics
+          |
+          v
+         SQL
+          |
+          v
+   Data Visualization
+          |
+          v
   Machine Learning
-         |
-         v
+          |
+          v
 Artificial Intelligence
-         |
-         v
+          |
+          v
    Data Scientist
 ```
 
 ---
 
-<!-- ========== CONNECT ========== -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:650000&height=65&section=header&text=CONNECT%20WITH%20ME&fontSize=26&fontColor=FFD700" width="100%" alt="Connect banner"/>
-</p>
+## 📬 Connect With Me
 
 <p align="center">
   <a href="https://github.com/Muntasiir-Shaikh">
-    <img src="https://img.shields.io/badge/GitHub-Muntasiir--Shaikh-650000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+    <img src="https://img.shields.io/badge/GitHub-Muntasiir--Shaikh-650000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -280,17 +229,12 @@ Artificial Intelligence
 
 ---
 
-<!-- ========== FOOTER ========== -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2020,50:650000,100:080808&height=120&section=footer" width="100%" alt="Dark crimson footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2020,50:650000,100:080808&height=130&section=footer" width="100%" alt="Footer banner"/>
 </p>
 
 <p align="center">
   <b>Thanks for visiting my profile!</b>
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=CODE.+COMMIT.+PUSH.+REPEAT." alt="Code commit push repeat"/>
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=CODE.+COMMIT.+PUSH.+REPEAT." alt="Code Commit Push Repeat"/>
-</p>
-```
