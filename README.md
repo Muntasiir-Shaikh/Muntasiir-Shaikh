@@ -44,16 +44,20 @@ A student passionate about programming, technology, and data.
 
 ### 📊 Data Science & Analytics
 
-
-
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-080808?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-080808?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/NumPy-080808?style=for-the-badge&logo=numpy&logoColor=013243" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-080808?style=for-the-badge&logo=pandas&logoColor=150458" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Matplotlib-080808?style=for-the-badge&logo=python&logoColor=3776AB" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Power_BI-080808?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Excel-080808?style=for-the-badge&logo=microsoftexcel&logoColor=217346" alt="Excel"/>
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="50" alt="MySQL"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="50" alt="PostgreSQL"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="50" alt="NumPy"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="50" alt="Pandas"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/matplotlib/11557C" height="50" alt="Matplotlib"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="50" alt="Power BI"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="50" alt="Excel"/>
 </p>
 
 ### 🌐 Web Development
