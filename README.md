@@ -1,8 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=FFD700&center=true&vCenter=true&width=800&height=80&lines=MUNTASIIR+SHAIKH" alt="Muntasiir Shaikh"/>
-  <br/>
-  <img src="https://img.shields.io/badge/DATA%20SCIENCE-PYTHON-650000?style=for-the-badge&labelColor=080808" alt="Data Science Python"/>
-  <img src="https://img.shields.io/badge/ARTIFICIAL-INTELLIGENCE-650000?style=for-the-badge&labelColor=080808" alt="AI"/>
+  <img src="https://raw.githubusercontent.com/Muntasiir-Shaikh/Muntasiir-Shaikh/main/assets/hero.svg" width="100%" alt="Muntasiir Shaikh hero banner"/>
 </p>
 
 <p align="center">
@@ -23,7 +20,7 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/01-ABOUT%20ME-650000?style=for-the-badge&labelColor=FFD700" alt="About me"/>
+  <img src="https://raw.githubusercontent.com/Muntasiir-Shaikh/Muntasiir-Shaikh/main/assets/about.svg" width="100%" alt="About me"/>
 </p>
 
 <p align="center">
@@ -44,7 +41,7 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/02-TECH%20ARSENAL-650000?style=for-the-badge&labelColor=FFD700" alt="Tech arsenal"/>
+  <img src="https://raw.githubusercontent.com/Muntasiir-Shaikh/Muntasiir-Shaikh/main/assets/arsenal.svg" width="100%" alt="Tech arsenal"/>
 </p>
 
 ### ⚙️ Programming Languages
@@ -84,7 +81,7 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/03-PROJECT%20SHOWCASE-650000?style=for-the-badge&labelColor=FFD700" alt="Project showcase"/>
+  <img src="https://raw.githubusercontent.com/Muntasiir-Shaikh/Muntasiir-Shaikh/main/assets/projects.svg" width="100%" alt="Project showcase"/>
 </p>
 
 <p align="center">
@@ -113,7 +110,7 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/04-DATA%20%26%20AI%20LAB-650000?style=for-the-badge&labelColor=FFD700" alt="Data and AI lab"/>
+  <img src="https://raw.githubusercontent.com/Muntasiir-Shaikh/Muntasiir-Shaikh/main/assets/datalab.svg" width="100%" alt="Data and AI lab"/>
 </p>
 
 <p align="center">
@@ -134,7 +131,7 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/05-DEVELOPER%20TERMINAL-650000?style=for-the-badge&labelColor=FFD700" alt="Developer terminal"/>
+  <img src="https://raw.githubusercontent.com/Muntasiir-Shaikh/Muntasiir-Shaikh/main/assets/terminal.svg" width="100%" alt="Developer terminal"/>
 </p>
 
 ```python
@@ -162,7 +159,7 @@ print(me.mission())
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/06-GITHUB%20COMMAND%20CENTER-650000?style=for-the-badge&labelColor=FFD700" alt="GitHub command center"/>
+  <img src="https://raw.githubusercontent.com/Muntasiir-Shaikh/Muntasiir-Shaikh/main/assets/github.svg" width="100%" alt="GitHub command center"/>
 </p>
 
 ### 📊 Performance Statistics
@@ -193,7 +190,7 @@ print(me.mission())
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/07-FUTURE%20ROADMAP-650000?style=for-the-badge&labelColor=FFD700" alt="Future roadmap"/>
+  <img src="https://raw.githubusercontent.com/Muntasiir-Shaikh/Muntasiir-Shaikh/main/assets/roadmap.svg" width="100%" alt="Future roadmap"/>
 </p>
 
 ```text
@@ -227,7 +224,7 @@ print(me.mission())
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/08-CONNECT%20WITH%20ME-650000?style=for-the-badge&labelColor=FFD700" alt="Connect with me"/>
+  <img src="https://raw.githubusercontent.com/Muntasiir-Shaikh/Muntasiir-Shaikh/main/assets/connect.svg" width="100%" alt="Connect with me"/>
 </p>
 
 <p align="center">
@@ -243,8 +240,11 @@ print(me.mission())
 ---
 
 <p align="center">
-  <b>THANKS FOR VISITING MY PROFILE</b>
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=CODE.+COMMIT.+PUSH.+REPEAT." alt="Code commit push repeat"/>
+  <img src="https://raw.githubusercontent.com/Muntasiir-Shaikh/Muntasiir-Shaikh/main/assets/footer.svg" width="100%" alt="Footer"/>
 </p>
 
+<p align="center">
+  <b>THANKS FOR VISITING MY PROFILE</b>
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=CODE+COMMIT+PUSH+REPEAT." alt="Code commit push repeat"/>
+</p>
