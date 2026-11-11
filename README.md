@@ -1,7 +1,7 @@
- <!-- ═══════════════════ HERO ═══════════════════ -->
+<!-- ═══════════════════ HERO ═══════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:250000,70:850000,100:FF2020&height=250&section=header&text=MUNTASIIR%20SHAIKH&fontSize=46&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=DATA%20SCIENCE%20%7C%20PYTHON%20%7C%20ARTIFICIAL%20INTELLIGENCE&descSize=14&descAlignY=60" width="100%" alt="Muntasiir Shaikh hero banner"/>
+  <img src="https://raw.githubusercontent.com/Muntasiir-Shaikh/Muntasiir-Shaikh/main/assets/hero.svg" width="100%" alt="Muntasiir Shaikh hero banner"/>
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 <!-- ═══════════════════ ABOUT ═══════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:650000&height=65&section=header&text=01%20%2F%20ABOUT%20ME&fontSize=25&fontColor=FFD700" width="100%" alt="About section"/>
+  <img src="https://raw.githubusercontent.com/Muntasiir-Shaikh/Muntasiir-Shaikh/main/assets/about.svg" width="100%" alt="About section"/>
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@
 <!-- ═══════════════════ TECH ARSENAL ═══════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:650000&height=65&section=header&text=02%20%2F%20TECH%20ARSENAL&fontSize=25&fontColor=FFD700" width="100%" alt="Tech arsenal"/>
+  <img src="https://raw.githubusercontent.com/Muntasiir-Shaikh/Muntasiir-Shaikh/main/assets/arsenal.svg" width="100%" alt="Tech arsenal"/>
 </p>
 
 ### ⚙️ Programming Languages
@@ -89,7 +89,7 @@
 <!-- ═══════════════════ PROJECTS ═══════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:650000&height=65&section=header&text=03%20%2F%20PROJECT%20SHOWCASE&fontSize=24&fontColor=FFD700" width="100%" alt="Projects section"/>
+  <img src="https://raw.githubusercontent.com/Muntasiir-Shaikh/Muntasiir-Shaikh/main/assets/projects.svg" width="100%" alt="Projects section"/>
 </p>
 
 <p align="center">
@@ -120,7 +120,7 @@
 <!-- ═══════════════════ DATA SCIENCE ═══════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:650000&height=65&section=header&text=04%20%2F%20DATA%20%26%20AI%20LAB&fontSize=24&fontColor=FFD700" width="100%" alt="Data and AI section"/>
+  <img src="https://raw.githubusercontent.com/Muntasiir-Shaikh/Muntasiir-Shaikh/main/assets/datalab.svg" width="100%" alt="Data and AI section"/>
 </p>
 
 <p align="center">
@@ -143,7 +143,7 @@
 <!-- ═══════════════════ DEVELOPER TERMINAL ═══════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:650000&height=65&section=header&text=05%20%2F%20DEVELOPER%20TERMINAL&fontSize=23&fontColor=FFD700" width="100%" alt="Developer terminal"/>
+  <img src="https://raw.githubusercontent.com/Muntasiir-Shaikh/Muntasiir-Shaikh/main/assets/terminal.svg" width="100%" alt="Developer terminal"/>
 </p>
 
 ```python
@@ -173,7 +173,7 @@ print(me.mission())
 <!-- ═══════════════════ GITHUB COMMAND CENTER ═══════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:650000&height=65&section=header&text=06%20%2F%20GITHUB%20COMMAND%20CENTER&fontSize=23&fontColor=FFD700" width="100%" alt="GitHub command center"/>
+  <img src="https://raw.githubusercontent.com/Muntasiir-Shaikh/Muntasiir-Shaikh/main/assets/github.svg" width="100%" alt="GitHub command center"/>
 </p>
 
 ### 📊 Performance Statistics
@@ -206,7 +206,7 @@ print(me.mission())
 <!-- ═══════════════════ ROADMAP ═══════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:650000&height=65&section=header&text=07%20%2F%20FUTURE%20ROADMAP&fontSize=24&fontColor=FFD700" width="100%" alt="Roadmap"/>
+  <img src="https://raw.githubusercontent.com/Muntasiir-Shaikh/Muntasiir-Shaikh/main/assets/roadmap.svg" width="100%" alt="Roadmap"/>
 </p>
 
 ```text
@@ -242,7 +242,7 @@ print(me.mission())
 <!-- ═══════════════════ CONNECT ═══════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:650000&height=65&section=header&text=08%20%2F%20CONNECT%20WITH%20ME&fontSize=24&fontColor=FFD700" width="100%" alt="Connect section"/>
+  <img src="https://raw.githubusercontent.com/Muntasiir-Shaikh/Muntasiir-Shaikh/main/assets/connect.svg" width="100%" alt="Connect section"/>
 </p>
 
 <p align="center">
@@ -260,7 +260,7 @@ print(me.mission())
 <!-- ═══════════════════ FOOTER ═══════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2020,45:650000,100:080808&height=140&section=footer" width="100%" alt="Footer"/>
+  <img src="https://raw.githubusercontent.com/Muntasiir-Shaikh/Muntasiir-Shaikh/main/assets/footer.svg" width="100%" alt="Footer"/>
 </p>
 
 <p align="center">
