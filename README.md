@@ -53,11 +53,9 @@ A student passionate about programming, technology, and data.
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/pandas/150458" height="50" alt="Pandas"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/matplotlib/11557C" height="50" alt="Matplotlib"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="50" alt="Power BI"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="50" alt="Excel"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="50" alt="Matplotlib"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="50" alt="Power BI"/>
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="50" alt="Microsoft Excel"/>
 </p>
 
 ### 🌐 Web Development
