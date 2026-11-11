@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:8B0000,100:FFD700&height=220&section=header&text=MUNTASIIR%20SHAIKH&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Python%20Developer%20%7C%20Aspiring%20Data%20Scientist&descAlignY=58&descSize=16" width="100%" alt="Main banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:8B0000,100:FFD700&height=220&section=header&text=MUNTASIIR%20SHAIKH&fontSize=42&fontColor=FFD700&fontAlignY=38&desc=Python%20Developer%20%7C%20Aspiring%20Data%20Scientist&descAlignY=58&descSize=16&descColor=FFD700" width="100%" alt="Main banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=650&lines=Python+Developer+in+Progress;Aspiring+Data+Scientist;Exploring+AI+%26+Machine+Learning;Learn+%7C+Build+%7C+Improve" alt="Typing animation"/>
 
@@ -45,12 +45,15 @@ A student passionate about programming, technology, and data.
 ### 📊 Data Science & Analytics
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/NumPy-080808?style=for-the-badge&logo=numpy&logoColor=FFD700" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-080808?style=for-the-badge&logo=pandas&logoColor=FFD700" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Matplotlib-080808?style=for-the-badge&logo=python&logoColor=FFD700" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Power_BI-080808?style=for-the-badge&logo=powerbi&logoColor=FFD700" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Excel-080808?style=for-the-badge&logo=microsoftexcel&logoColor=FFD700" alt="Excel"/>
+  <img src="https://cdn.simpleicons.org/numpy/FFD700" height="45" alt="NumPy"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pandas/FFD700" height="45" alt="Pandas"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/matplotlib/FFD700" height="45" alt="Matplotlib"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/powerbi/FFD700" height="45" alt="Power BI"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/microsoftexcel/FFD700" height="45" alt="Excel"/>
 </p>
 
 ### 🌐 Web Development
