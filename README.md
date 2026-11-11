@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:8B0000,100:FFD700&height=220&section=header&text=MUNTASIIR%20SHAIKH&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Python%20Developer%20%7C%20Aspiring%20Data%20Scientist&descAlignY=58&descSize=16" width="100%" alt="Profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:8B0000,100:FFD700&height=220&section=header&text=MUNTASIIR%20SHAIKH&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Python%20Developer%20%7C%20Aspiring%20Data%20Scientist&descAlignY=58&descSize=16" width="100%" alt="Main banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=650&lines=Python+Developer+in+Progress;Aspiring+Data+Scientist;Exploring+AI+%26+Machine+Learning;Learn+%7C+Build+%7C+Improve" alt="Typing animation"/>
 
@@ -15,7 +15,11 @@
 
 ---
 
-<h2 align="center">🖤 ABOUT ME ❤️</h2>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,50:8B0000,100:080808&height=100&section=header&text=ABOUT%20ME&fontSize=35&fontColor=FFD700&animation=fadeIn" width="100%" alt="About Me banner"/>
+
+</div>
 
 <div align="center">
 
@@ -34,9 +38,9 @@ A student passionate about programming, technology, and data.
 
 ---
 
-<h2 align="center">⚡ TECH ARSENAL ⚡</h2>
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,50:8B0000,100:080808&height=100&section=header&text=TECH%20ARSENAL&fontSize=35&fontColor=FFD700&animation=fadeIn" width="100%" alt="Tech Arsenal banner"/>
 
 ### 💻 Programming Languages
 
@@ -64,9 +68,9 @@ A student passionate about programming, technology, and data.
 
 ---
 
-<h2 align="center">🚀 FEATURED PROJECTS 🚀</h2>
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,50:8B0000,100:080808&height=100&section=header&text=FEATURED%20PROJECTS&fontSize=32&fontColor=FFD700&animation=fadeIn" width="100%" alt="Projects banner"/>
 
 <a href="https://github.com/Muntasiir-Shaikh/python-mini-projects">
 <img src="https://img.shields.io/badge/PYTHON_MINI_PROJECTS-080808?style=for-the-badge&logo=python&logoColor=FFD700" alt="Python Mini Projects"/>
@@ -81,21 +85,13 @@ A student passionate about programming, technology, and data.
 | 📝 [Quiz App](https://github.com/Muntasiir-Shaikh/python-mini-projects/tree/main/Quiz%20app) | Beginner-friendly quiz application |
 | ✅ [Todo List](https://github.com/Muntasiir-Shaikh/python-mini-projects/tree/main/Todo%20list) | Simple task management program |
 
-<div align="center">
-
-<a href="https://github.com/Muntasiir-Shaikh/python-mini-projects">
-<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-8B0000?style=for-the-badge&logo=github&logoColor=FFD700" alt="Explore projects"/>
-</a>
-
-</div>
-
 ---
 
-<h2 align="center">📊 GITHUB STATISTICS 📊</h2>
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Muntasiir-Shaikh&show_icons=true&hide_border=true&bg_color=080808&title_color=FFD700&icon_color=FF3333&text_color=FFFFFF&ring_color=FFD700" width="48%" alt="GitHub stats"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,50:8B0000,100:080808&height=100&section=header&text=GITHUB%20STATISTICS&fontSize=32&fontColor=FFD700&animation=fadeIn" width="100%" alt="GitHub statistics banner"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Muntasiir-Shaikh&show_icons=true&hide_border=true&bg_color=080808&title_color=FFD700&icon_color=FF3333&text_color=FFFFFF" width="48%" alt="GitHub stats"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muntasiir-Shaikh&layout=compact&hide_border=true&bg_color=080808&title_color=FFD700&text_color=FFFFFF" width="48%" alt="Top languages"/>
 
@@ -107,9 +103,9 @@ A student passionate about programming, technology, and data.
 
 ---
 
-<h2 align="center">🏆 GITHUB ACHIEVEMENTS 🏆</h2>
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,50:8B0000,100:080808&height=100&section=header&text=GITHUB%20ACHIEVEMENTS&fontSize=32&fontColor=FFD700&animation=fadeIn" width="100%" alt="Achievements banner"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Muntasiir-Shaikh&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub trophies"/>
 
@@ -117,9 +113,9 @@ A student passionate about programming, technology, and data.
 
 ---
 
-<h2 align="center">📈 CONTRIBUTION GRAPH 📈</h2>
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,50:8B0000,100:080808&height=100&section=header&text=CONTRIBUTION%20GRAPH&fontSize=32&fontColor=FFD700&animation=fadeIn" width="100%" alt="Contribution banner"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muntasiir-Shaikh&bg_color=080808&color=FFD700&line=FF3333&point=FFD700&area=true&hide_border=true" width="100%" alt="Contribution graph"/>
 
@@ -127,9 +123,9 @@ A student passionate about programming, technology, and data.
 
 ---
 
-<h2 align="center">🎯 MY LEARNING ROADMAP 🎯</h2>
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,50:8B0000,100:080808&height=100&section=header&text=MY%20LEARNING%20ROADMAP&fontSize=32&fontColor=FFD700&animation=fadeIn" width="100%" alt="Learning roadmap banner"/>
 
 | Learning Goals | Status |
 |:---|:---:|
@@ -146,7 +142,11 @@ A student passionate about programming, technology, and data.
 
 ---
 
-<h2 align="center">💻 DEVELOPER MINDSET 💻</h2>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,50:8B0000,100:080808&height=100&section=header&text=DEVELOPER%20MINDSET&fontSize=32&fontColor=FFD700&animation=fadeIn" width="100%" alt="Developer mindset banner"/>
+
+</div>
 
 ```python
 class Developer:
@@ -165,9 +165,9 @@ print(me.keep_learning())
 
 ---
 
-<h2 align="center">🌐 CONNECT WITH ME 🌐</h2>
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,50:8B0000,100:080808&height=100&section=header&text=CONNECT%20WITH%20ME&fontSize=32&fontColor=FFD700&animation=fadeIn" width="100%" alt="Connect banner"/>
 
 <a href="https://github.com/Muntasiir-Shaikh">
 <img src="https://img.shields.io/badge/GitHub-080808?style=for-the-badge&logo=github&logoColor=FFD700" alt="GitHub"/>
@@ -183,7 +183,7 @@ print(me.keep_learning())
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Keep+Learning.+Keep+Building.;The+Best+Is+Yet+To+Come." alt="Footer typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Keep+Learning.+Keep+Building.;The+Best+Is+Yet+To+Come." alt="Footer animation"/>
 
 <h3>🖤 LEARN • BUILD • GROW ❤️</h3>
 
