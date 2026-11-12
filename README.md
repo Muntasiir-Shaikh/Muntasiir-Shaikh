@@ -134,7 +134,7 @@ A student passionate about programming, technology, and data.
 |:---|:---:|
 | Python Basics | ✅ |
 | Beginner Python Projects | ✅ |
-| Advanced Python | 🔄 |
+| Advanced Python | ✅ |
 | NumPy & Pandas | 📚 |
 | Data Analysis | 📚 |
 | Data Visualization | 📚 |
