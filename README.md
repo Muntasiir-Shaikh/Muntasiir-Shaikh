@@ -92,11 +92,9 @@ A student passionate about programming, technology, and data.
 
 ## 🚀 ADVANCED PYTHON PROJECTS
 
-<div align="center">
+ <div align="center">
 
-<a href="https://github.com/Muntasiir-Shaikh/advanced-python-projects">
-<img src="https://img.shields.io/badge/ADVANCED_PYTHON_PROJECTS-080808?style=for-the-badge&logo=python&logoColor=FFD700" alt="Advanced Python Projects"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,50:8B0000,100:080808&height=100&section=header&text=ADVANCED%20PYTHON%20PROJECTS&fontSize=32&fontColor=FFD700&animation=fadeIn" width="100%" alt="Advanced Python Projects banner"/>
 
 </div>
 
