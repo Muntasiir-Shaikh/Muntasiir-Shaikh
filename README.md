@@ -117,7 +117,7 @@ A student passionate about programming, technology, and data.
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Muntasiir-Shaikh&hide_border=true&background=080808&ring=FFD700&fire=FF3333&currStreakLabel=FFD700&sideLabels=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" width="75%" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=Muntasiir-Shaikh&hide_border=true&background=080808&ring=FFD700&fire=FF3333&currStreakLabel=FFD700&sideLabels=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA&v=2" width="75%" alt="GitHub streak"/>
 </div>
 
 ---
