@@ -90,6 +90,25 @@ A student passionate about programming, technology, and data.
 
 ---
 
+## 🚀 ADVANCED PYTHON PROJECTS
+
+<div align="center">
+
+<a href="https://github.com/Muntasiir-Shaikh/advanced-python-projects">
+<img src="https://img.shields.io/badge/ADVANCED_PYTHON_PROJECTS-080808?style=for-the-badge&logo=python&logoColor=FFD700" alt="Advanced Python Projects"/>
+</a>
+
+</div>
+
+| Project | Description |
+|:---|:---|
+| 🏦 [Banking Management System](https://github.com/Muntasiir-Shaikh/advanced-python-projects/tree/main/Banking-Management-System) | Manage bank accounts, deposits, withdrawals and balance |
+| 📁 [File Organizer](https://github.com/Muntasiir-Shaikh/advanced-python-projects/tree/main/File-Organizer) | Automatically organize files into different folders |
+| 📚 [Book Management System](https://github.com/Muntasiir-Shaikh/advanced-python-projects/tree/main/Book-Management) | Manage books, search, issue and return books |
+| 🔐 [Password Management System](https://github.com/Muntasiir-Shaikh/advanced-python-projects/tree/main/Password-Management) | A basic password management demo |
+| 💰 [Expense Tracker](https://github.com/Muntasiir-Shaikh/advanced-python-projects/tree/main/Expense-Tracker) | Add, view, search and track expenses |
+| 🌦️ [Weather App](https://github.com/Muntasiir-Shaikh/advanced-python-projects/tree/main/Weather-App) | Fetch current weather information using an API |
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,50:8B0000,100:080808&height=100&section=header&text=GITHUB%20STATISTICS&fontSize=32&fontColor=FFD700&animation=fadeIn" width="100%" alt="GitHub statistics banner"/>
