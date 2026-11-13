@@ -210,3 +210,5 @@ print(me.keep_learning())
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:8B0000,100:080808&height=130&section=footer" width="100%" alt="Footer banner"/>
 
 </div>
+
+Yoooooooooooooooooooooo
