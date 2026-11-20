@@ -1,9 +1,8 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:8B0000,100:FFD700&height=220&section=header&text=MUNTASIIR%20SHAIKH&fontSize=42&fontColor=FFD700&fontAlignY=38&desc=Python%20Developer%20%7C%20Aspiring%20Data%20Scientist&descAlignY=58&descSize=16&descColor=FFD700" width="100%" alt="Main banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=650&lines=Python+Developer+in+Progress;Aspiring+Data+Scientist;Exploring+AI+%26+Machine+Learning;Learn+%7C+Build+%7C+Improve" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=650&lines=Python+Developer+in+Progress;Aspiring+Data+Scientist;Exploring+AI+%26+Machine+Learning;Learn+%7C+Build+%7C+Improve;Dreaming+of+IIT+Bombay" alt="Typing animation"/>
 
 <br/><br/>
 
@@ -31,6 +30,7 @@ A student passionate about programming, technology, and data.
 - 🤖🚀 Exploring Artificial Intelligence & Machine Learning. 💡⚙️
 - 💡🛠️ Building creative projects and turning ideas into reality. 🎯✨
 - 🚀🔥 Focused on continuous learning, growth & self-improvement. 🌱🏆
+- 🎯🏛️ Preparing for JEE with one big dream: **IIT Bombay**. 📚🔥
 
 ---
 
@@ -156,6 +156,8 @@ A student passionate about programming, technology, and data.
 | Data Visualization | 📚 |
 | Machine Learning | 🎯 |
 | Artificial Intelligence | 🎯 |
+| JEE Preparation | 📚 |
+| IIT Bombay | 🎯 |
 
 </div>
 
@@ -174,6 +176,7 @@ class Developer:
         self.role = "Aspiring Data Scientist"
         self.language = "Python"
         self.goal = "Never stop learning"
+        self.dream = "IIT Bombay"
 
     def keep_learning(self):
         return "Learn, Build, Improve, Repeat!"
@@ -181,6 +184,14 @@ class Developer:
 me = Developer()
 print(me.keep_learning())
 ```
+
+---
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/DREAM-IIT%20BOMBAY-8B0000?style=for-the-badge&labelColor=080808&logoColor=FFD700" alt="Dream: IIT Bombay"/>
+
+</div>
 
 ---
 
@@ -209,7 +220,3 @@ print(me.keep_learning())
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:8B0000,100:080808&height=130&section=footer" width="100%" alt="Footer banner"/>
 
 </div>
-
-
-
-
