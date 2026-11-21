@@ -101,13 +101,13 @@ A student passionate about programming, technology, and data.
 
 | Project | Description |
 |:---|:---|
-| 🏦 [Banking Management System](https://github.com/Muntasiir-Shaikh/Advanced-python-projects/tree/main/Banking-Management-System) | Manage bank accounts, deposits, withdrawals and balance |
-| 📁 [File Organizer](https://github.com/Muntasiir-Shaikh/Advanced-python-projects/tree/main/File-Organizer) | Automatically organize files into different folders |
-| 📚 [Book Management System](https://github.com/Muntasiir-Shaikh/Advanced-python-projects/tree/main/Book-Management) | Manage books, search, issue and return books |
-| 🔐 [Password Management System](https://github.com/Muntasiir-Shaikh/Advanced-python-projects/tree/main/Password-Management) | A basic password management demo |
-| 💰 [Expense Tracker](https://github.com/Muntasiir-Shaikh/Advanced-python-projects/tree/main/Expense-Tracker) | Add, view, search and track expenses |
-| 📇 [Contact Management System](https://github.com/Muntasiir-Shaikh/Advanced-python-projects/tree/main/Contact-Management) | Store, search and manage contacts |
-| 📝 [Quiz Management System](https://github.com/Muntasiir-Shaikh/Advanced-python-projects/tree/main/Quiz-Management-System) | Create quizzes, answer questions and calculate scores |
+| 🏦 [Banking Management System](https://github.com/Muntasiir-Shaikh/Advanced-python-projects/tree/main/Banking-Management-System) | 💳 Manage bank accounts, deposits, withdrawals and balances |
+| 📁 [File Organizer](https://github.com/Muntasiir-Shaikh/Advanced-python-projects/tree/main/File-Organizer) | 🗂️ Automatically organize files into different folders |
+| 📚 [Book Management System](https://github.com/Muntasiir-Shaikh/Advanced-python-projects/tree/main/Book-Management) | 📖 Manage books, search, issue and return books |
+| 🔐 [Password Management System](https://github.com/Muntasiir-Shaikh/Advanced-python-projects/tree/main/Password-Management) | 🛡️ A basic password management demo |
+| 💰 [Expense Tracker](https://github.com/Muntasiir-Shaikh/Advanced-python-projects/tree/main/Expense-Tracker) | 📊 Add, view, search and track expenses |
+| 📇 [Contact Management System](https://github.com/Muntasiir-Shaikh/Advanced-python-projects/tree/main/Contact-Management) | 👥 Store, search and manage contacts |
+| 📝 [Quiz Management System](https://github.com/Muntasiir-Shaikh/Advanced-python-projects/tree/main/Quiz-Management-System) | 🧠 Create quizzes, answer questions and calculate scores |
 
 ---
 
