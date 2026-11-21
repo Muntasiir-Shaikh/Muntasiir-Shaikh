@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:8B0000,100:FFD700&height=220&section=header&text=MUNTASIIR%20SHAIKH&fontSize=42&fontColor=FFD700&fontAlignY=38&desc=Python%20Developer%20%7C%20Aspiring%20Data%20Scientist&descAlignY=58&descSize=16&descColor=FFD700" width="100%" alt="Main banner"/>
 
@@ -45,18 +45,17 @@ A student passionate about programming, technology, and data.
 ### 📊 Data Science & Analytics
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="50" alt="MySQL"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="50" alt="PostgreSQL"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="50" alt="NumPy"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="50" alt="Pandas"/>
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="50" alt="Matplotlib"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="50" alt="Power BI"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="50" alt="Microsoft Excel"/>
-
+<img src="https://cdn.simpleicons.org/mysql/4479A1" height="50" alt="MySQL"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" height="50" alt="PostgreSQL"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/numpy/013243" height="50" alt="NumPy"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/pandas/150458" height="50" alt="Pandas"/>
+&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="50" alt="Matplotlib"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="50" alt="Power BI"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="50" alt="Microsoft Excel"/>
 </p>
 
 ### 🌐 Web Development
@@ -90,22 +89,27 @@ A student passionate about programming, technology, and data.
 
 ---
 
-## 🚀 ADVANCED PYTHON PROJECTS
-
- <div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,50:8B0000,100:080808&height=100&section=header&text=ADVANCED%20PYTHON%20PROJECTS&fontSize=32&fontColor=FFD700&animation=fadeIn" width="100%" alt="Advanced Python Projects banner"/>
+
+<a href="https://github.com/Muntasiir-Shaikh/Advanced-python-projects">
+<img src="https://img.shields.io/badge/ADVANCED_PYTHON_PROJECTS-080808?style=for-the-badge&logo=python&logoColor=FFD700" alt="Advanced Python Projects"/>
+</a>
 
 </div>
 
 | Project | Description |
 |:---|:---|
-| 🏦 [Banking Management System](https://github.com/Muntasiir-Shaikh/advanced-python-projects/tree/main/Banking-Management-System) | Manage bank accounts, deposits, withdrawals and balance |
-| 📁 [File Organizer](https://github.com/Muntasiir-Shaikh/advanced-python-projects/tree/main/File-Organizer) | Automatically organize files into different folders |
-| 📚 [Book Management System](https://github.com/Muntasiir-Shaikh/advanced-python-projects/tree/main/Book-Management) | Manage books, search, issue and return books |
-| 🔐 [Password Management System](https://github.com/Muntasiir-Shaikh/advanced-python-projects/tree/main/Password-Management) | A basic password management demo |
-| 💰 [Expense Tracker](https://github.com/Muntasiir-Shaikh/advanced-python-projects/tree/main/Expense-Tracker) | Add, view, search and track expenses |
-| 🌦️ [Weather App](https://github.com/Muntasiir-Shaikh/advanced-python-projects/tree/main/Weather-App) | Fetch current weather information using an API |
+| 🏦 [Banking Management System](https://github.com/Muntasiir-Shaikh/Advanced-python-projects/tree/main/Banking-Management-System) | Manage bank accounts, deposits, withdrawals and balance |
+| 📁 [File Organizer](https://github.com/Muntasiir-Shaikh/Advanced-python-projects/tree/main/File-Organizer) | Automatically organize files into different folders |
+| 📚 [Book Management System](https://github.com/Muntasiir-Shaikh/Advanced-python-projects/tree/main/Book-Management) | Manage books, search, issue and return books |
+| 🔐 [Password Management System](https://github.com/Muntasiir-Shaikh/Advanced-python-projects/tree/main/Password-Management) | A basic password management demo |
+| 💰 [Expense Tracker](https://github.com/Muntasiir-Shaikh/Advanced-python-projects/tree/main/Expense-Tracker) | Add, view, search and track expenses |
+| 📇 [Contact Management System](https://github.com/Muntasiir-Shaikh/Advanced-python-projects/tree/main/Contact-Management) | Store, search and manage contacts |
+| 📝 [Quiz Management System](https://github.com/Muntasiir-Shaikh/Advanced-python-projects/tree/main/Quiz-Management-System) | Create quizzes, answer questions and calculate scores |
+
+---
 
 <div align="center">
 
@@ -118,6 +122,7 @@ A student passionate about programming, technology, and data.
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Muntasiir-Shaikh&hide_border=true&background=080808&ring=FFD700&fire=FF3333&currStreakLabel=FFD700&sideLabels=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA&v=2" width="75%" alt="GitHub streak"/>
+
 </div>
 
 ---
@@ -150,7 +155,7 @@ A student passionate about programming, technology, and data.
 |:---|:---:|
 | Python Basics | ✅ |
 | Beginner Python Projects | ✅ |
-| Advanced Python | ✅ |
+| Advanced Python | 🔄 |
 | NumPy & Pandas | 📚 |
 | Data Analysis | 📚 |
 | Data Visualization | 📚 |
